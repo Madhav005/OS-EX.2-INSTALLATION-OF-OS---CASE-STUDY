@@ -14,14 +14,12 @@ To install an operating system using virtual box.
 
 ![268162276-901571cf-4545-4883-9279-de43c5f6da4a](https://github.com/Madhav005/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/110885274/da1669a1-9855-4136-9723-45e1661808e7)
 
-5.It should let you write a name, and the select the ISO. The rest of the things
-should be automatically set.
+5.It should let you write a name, and the select the ISO. 
+The rest of the things should be automatically set.
 
 ![268162395-c1890e07-240d-4f48-86a6-b695a95b09bd](https://github.com/Madhav005/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/110885274/950ff862-8c20-4caa-97e2-c7cbe5f343dc)
 
-6.For Ubuntu, VirtualBox supports creating a username, password, and
-specifying the hostname. You can decide to customize it or go with the
-defaults.
+6.For Ubuntu, VirtualBox supports creating a username, password, and specifying the hostname. You can decide to customize it or go with the defaults.
 
 ![268162455-7f5a6a1b-afa2-40bb-9288-549bddaa60fb](https://github.com/Madhav005/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/110885274/12883db0-db34-4127-aaae-8af36eee3551)
 
