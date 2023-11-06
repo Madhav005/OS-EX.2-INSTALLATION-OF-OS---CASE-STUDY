@@ -6,9 +6,6 @@ To install an operating system using virtual box.
 ## PROCEDURE:
 1.Download and install virtual box from the website of oracle virtual box.
 2.Download the linux ISO from the linux distribution from its official site.
-
-![68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476351345051797162554d49324c6f634a5f4e53716938724c4f4241714564735738345a746726757371703d434155](https://github.com/Madhav005/OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY/assets/110885274/a34262c1-6827-49b0-9eda-38d3ef7cd670)
-
 3.Install linux using virtual box.
 4.Start VirtualBox, and click on the New symbol to create a virtual machine
 
